@@ -1,0 +1,8 @@
+span {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+span:last-child {
+    color: red;
+}
